@@ -1,0 +1,134 @@
+================================================================================
+                       ÖZEL YAZILIM LİSANS SÖZLEŞMESİ
+================================================================================
+
+Telif Hakkı (c) 2026 PayloadInjector & CNR SİBER GÜVENLİK VE DANIŞMANLIK. 
+Tüm hakları saklıdır.
+
+KULLANICIYA BİLDİRİM: Bu yazılım, kaynak kodu, dokümantasyon ve ilgili tüm materyaller 
+(topluca "Yazılım" olarak anılacaktır), PayloadInjector ve CNR SİBER GÜVENLİK VE DANIŞMANLIK 
+şirketinin (bundan sonra "Hak Sahipleri" olarak anılacaktır) mülkiyetinde olan özel ve gizli 
+varlıklardır. Yazılıma erişerek, indirerek, klonlayarak, görüntüleyerek veya başka bir şekilde 
+kullanarak, işbu Lisans Sözleşmesinin hüküm ve koşullarına bağlı olmayı açıkça kabul etmiş 
+sayılırsınız.
+
+--------------------------------------------------------------------------------
+1. HAKLARIN KISITLANMASI VE YASAKLANMIŞ EYLEMLER
+--------------------------------------------------------------------------------
+A. Burada açıkça verilmeyen tüm haklar, Hak Sahipleri tarafından kesinlikle saklı tutulur.
+B. Yazılımın —bütünüyle veya kısmen— izinsiz kopyalanması, çoğaltılması, değiştirilmesi, 
+   üzerinde tahrifat yapılması, tercüme edilmesi, kaynak koduna dönüştürülmesi (decompilation), 
+   parçalarına ayrılması, tersine mühendisliğe tabi tutulması, bu yazılımdan türev eserler 
+   oluşturulması veya halka açık olarak dağıtılması kesinlikle yasaktır.
+C. Yazılım veya herhangi bir kısmı, Hak Sahiplerinin açık, önceden alınmış yazılı izni 
+   olmaksızın başka hiçbir yazılıma, depoya (repository), sisteme veya projeye entegre 
+   edilemez, bunların içinde kullanılamaz veya bunlara atıfta bulunulamaz.
+
+--------------------------------------------------------------------------------
+2. TİCARİ VE TİCARİ OLMAYAN KULLANIM YASAĞI
+--------------------------------------------------------------------------------
+Bu Yazılım yalnızca özel inceleme veya yetkilendirilmiş operasyonel kullanım amacıyla 
+sağlanmıştır. Her türlü ticari sömürü, para kazanma (monetization), kiralama, finansal 
+kiralama, alt lisanslama veya maddi kazanç amacıyla dağıtılması; uluslararası fikri mülkiyet 
+yasalarının ve işbu Sözleşmenin doğrudan ihlalidir.
+
+--------------------------------------------------------------------------------
+3. ATIF VE ZORUNLU KAYNAK GÖSTERME
+--------------------------------------------------------------------------------
+Yazılıma ilişkin izin verilen her türlü referans, inceleme, akademik tartışma veya yetkili 
+sunumda; orijinal yazarlara ve kuruluşlara açık ve belirgin bir şekilde atıf yapılmalıdır. 
+Tüm resmi medya, raporlar veya içerikler, kaynağı açıkça "PayloadInjector" resmi GitHub 
+reposuna dayandırmak ve "CNR SİBER GÜVENLİK VE DANIŞMANLIK" şirketini münhasır kurumsal 
+telif hakkı sahibi olarak belirtmek zorundadır.
+
+--------------------------------------------------------------------------------
+4. GARANTİLERİN REDDİ VE SORUMLULUĞUN SINIRLANDIRILMASI
+--------------------------------------------------------------------------------
+YAZILIM, TİCARETE ELVERİŞLİLİK, BELİRLİ BİR AMACA UYGUNLUK, UNVAN VE İHLAL ETMEME 
+GARANTİLERİ DAHİL ANCAK BUNLARLA SINIRLI OLMAMAK ÜZERE, AÇIK VEYA ZIMNİ HİÇBİR 
+GARANTİ OLMAKSIZIN "OLDUĞU GİBİ" SAĞLANIR. HAK SAHİPLERİ, YAZARLAR VEYA KURUMSAL YÖNETİCİLER; 
+HİÇBİR KOŞUL ALTINDA; SÖZLEŞMEDE, KUSURSUZ SORUMLULUKTA VEYA HAKSIZ FİİLDE (İHMAL DAHİL) 
+OLSUN, BU YAZILIMIN KULLANIMINDAN KAYNAKLANAN DOĞRUDAN, DOLAYLI, ARIZİ, ÖZEL, EMSAL 
+VEYA NETİCE KABİLİNDEN ZARarlardan (İKAMET EDİLEN MAL VEYA HİZMETLERİN TEDARİKİ; KULLANIM, 
+VERİ VEYA KÂR KAYBI; YADA İŞ AKIŞININ KESİNTİYE UĞRAMASI DAHİL ANCAK BUNLARLA SINIRLI 
+OLMAMAK ÜZERE) —BU TÜR ZARARLARIN OLASILIĞI BİLDİRİLMİŞ OLSA BİLE— SORUMLU TUTulamaz.
+
+--------------------------------------------------------------------------------
+5. YAPTIRIM VE UYGULANACAK HUKUK
+--------------------------------------------------------------------------------
+İşbu Lisans Sözleşmesinin herhangi bir şekilde ihlal edilmesi, verilen tüm erişim haklarının 
+derhal ve otomatik olarak feshedilmesi anlamına gelir; yürürlükteki siber hukuk, fikri 
+mülkiyet düzenlemeleri ve ticaret kanunları kapsamında izin verilen azami ölçüde yasal 
+takibe tabi tutulacaktır.
+
+================================================================================
+
+
+
+================================================================================
+                        PROPRIETARY SOFTWARE LICENSE AGREEMENT
+================================================================================
+
+Copyright (c) 2026 PayloadInjector & CNR SİBER GÜVENLİK VE DANIŞMANLIK. 
+All rights reserved.
+
+NOTICE TO USER: This software, source code, documentation, and associated 
+materials (collectively, the "Software") are proprietary and confidential assets 
+of PayloadInjector and CNR SİBER GÜVENLİK VE DANIŞMANLIK (hereinafter referred to 
+as the "Rightsholders"). By accessing, downloading, cloning, viewing, or 
+otherwise utilizing the Software, you expressly agree to be bound by the terms 
+and conditions of this License Agreement. 
+
+--------------------------------------------------------------------------------
+1. RESTRICTION OF RIGHTS AND PROHIBITED ACTIONS
+--------------------------------------------------------------------------------
+A. All rights not expressly granted herein are strictly reserved by the Rightsholders. 
+B. Unauthorized copying, reproduction, modification, alteration, translation, 
+   decompilation, disassembling, reverse engineering, creating derivative works 
+   from, or public distribution of the Software—in whole or in part—is strictly 
+   prohibited.
+C. The Software, or any portion thereof, shall not be integrated into, utilized 
+   within, or referenced by any other software, repository, system, or project 
+   without explicit, prior written authorization from the Rightsholders.
+
+--------------------------------------------------------------------------------
+2. COMMERCIAL AND NON-COMMERCIAL USE BAN
+--------------------------------------------------------------------------------
+This Software is provided for private inspection or authorized operational use 
+only. Any commercial exploitation, monetization, rental, leasing, sublicensing, 
+or distribution for financial gain is a direct violation of international 
+intellectual property laws and this Agreement.
+
+--------------------------------------------------------------------------------
+3. ATTRIBUTION AND MANDATORY CITATION
+--------------------------------------------------------------------------------
+In any permitted reference, review, academic discussion, or authorized 
+presentation concerning the Software, clear and conspicuous credit must be 
+given to the original authors and entities. All official media, reports, or 
+content must explicitly attribute the source to the official GitHub repository 
+of "PayloadInjector" and reference "CNR SİBER GÜVENLİK VE DANIŞMANLIK" as the 
+exclusive corporate copyright holder.
+
+--------------------------------------------------------------------------------
+4. DISCLAIMER OF WARRANTIES AND LIMITATION OF LIABILITY
+--------------------------------------------------------------------------------
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS 
+FOR A PARTICULAR PURPOSE, TITLE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE 
+RIGHTSHOLDERS, AUTHORS, OR CORPORATE EXECUTIVES BE LIABLE FOR ANY DIRECT, 
+INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, 
+BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, 
+DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF 
+LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE 
+OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF 
+ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+--------------------------------------------------------------------------------
+5. ENFORCEMENT AND GOVERNING LAW
+--------------------------------------------------------------------------------
+Any violation of this License Agreement constitutes an immediate, automatic 
+revocation of any granted access and will be prosecuted to the maximum extent 
+permitted by applicable cyber law, intellectual property regulations, and 
+commercial codes. 
+
+================================================================================
