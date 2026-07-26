@@ -30,7 +30,7 @@ Depoyu klonlayın ve gerekli bağımlılıkları yükleyin:
 
 ```bash
 # Depoyu klonlayın
-git clone https://github.com/PayloadInjector/regnt.git
+git clone https://github.com/muhammed80164-collab/regnt.git
 cd regnt
 
 # Gereksinimleri yükleyin
@@ -62,7 +62,7 @@ Clone the repository and install the required dependencies:
 
 ```bash
 # Clone the repository
-git clone https://github.com/PayloadInjector/regnt.git
+git clone https://github.com/muhammed80164-collab/regnt.git
 cd regnt
 
 # Install requirements
